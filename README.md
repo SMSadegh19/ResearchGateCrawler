@@ -14,4 +14,5 @@ pip install webdriver-manager
 
 ## Parameters
 ```MAX_FETCH_COUNT```: How many pages you want to crawl?
+
 ```MAX_CACHED_NUM```: We renew ```crawled.json``` after crawling each ```MAX_CACHED_NUM``` papers.
